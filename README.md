@@ -5,4 +5,4 @@
 ![](https://user-images.githubusercontent.com/29763402/57286478-943e1980-70b5-11e9-8d54-00e9ec2a95b2.png)
 ![](https://user-images.githubusercontent.com/29763402/57286483-97d1a080-70b5-11e9-9068-754c8e5a9c50.png)
 
-Project files are in a private repository in BitBucket.
+// Project files are in a private repository in BitBucket.
